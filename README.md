@@ -1,2 +1,1 @@
-# Arduino-ile-RFID-Kart-Okuyucu-RC522-Mod-l-Kullanarak-Kap-Kilidi-Yap-m-
-Arduino ile RFID Kart Okuyucu (RC522) Modül Kullanarak Kapı Kilidi Yapımı
+# Door Lock Making Using Arduino with RFID Card Reader (RC522) Module
